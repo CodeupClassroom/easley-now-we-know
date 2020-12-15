@@ -1,0 +1,2 @@
+- git add 'file' -> git commit -m 'text' -> git push
+- read upstream error prompts fully and run suggested code
