@@ -15,4 +15,4 @@
 - I **love** :smiling_face_with_three_hearts:  when I push new commits up to the web and see it successful
 - git status, git diff, git add, git commit -m " ", git push
 
-<h2>**THE END**</h2>
+<h2>THE END</h2>
