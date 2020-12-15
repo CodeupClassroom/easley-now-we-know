@@ -1,9 +1,10 @@
 ## Yet More Git Practice!
 - Check your email for an invitation to join the "easley-students" group. You'll have to click the link in the invitation email to join properly.
-- Copy the SSH clone clone address for the repo at 
-- `cd ~/codeup-data-science` 
-- Now clone this repo to your laptop in this folder.
-- cd into the new folder
+- Once you have accepted the invite to join easley-students, go to https://github.com/CodeupClassroom/easley-now-we-know
+- Copy the SSH clone clone address for the 'easly-now-we-know' repo.
+- `cd ~/codeup-data-science`  in your terminal.
+- Now clone this repo "easley-now-we-know" repo to your laptop.
+- cd into the new folder for "easley-now-we-know" on your laptop.
 - Use VS Code to create a new file named firstname_lastname.md (where your_name is actually your own first name...)
 - Add some text to that file that shares something you've learned about git or the command line.
 - Add, commit, and push your work.
