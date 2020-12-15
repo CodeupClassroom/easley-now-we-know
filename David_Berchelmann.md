@@ -1,4 +1,4 @@
-## Here some info on what I have learned in github & command line so far
+## Here is some info on what I have learned in github & command line so far
 
 <h2>My name is David...</h2>
 
