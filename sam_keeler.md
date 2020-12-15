@@ -1,0 +1,1 @@
+use "code" to add and open a new file in the working direcctory
