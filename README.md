@@ -1,4 +1,4 @@
-# Easley Now-We-Know
+# Easley Now-We-Know Document
 
 ## What?
 - Now-We-Know Document is a Knowledge Sharing Document
@@ -9,3 +9,4 @@
 ## Now what? (We write down some content for review)
 - a repo is a regular folder that git is tracking
 - creating a repo
+- If you make your repo on GitHub 1st, you don't have to "git init". You only clone.
