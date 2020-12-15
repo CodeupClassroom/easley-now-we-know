@@ -58,7 +58,7 @@ when we create a repository in GitHub, what about the readme, gitignore, license
 
 ## Recommended Workflow
 - Make a new repository every time we start a new project/module
-- More on GitHub > less, b/c you're showing your portfolio
+- More on GitHub > less, b/c you're showing your portfolio!!!
 - Specific Workflow:
     - https://github.com/new to make a new github repo
     - Check the README box and click "create repo"
