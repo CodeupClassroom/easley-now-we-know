@@ -1,4 +1,4 @@
-## Here is some info on what I have learned in github & command line so far
+## Here is some info on what I have learned about github & command line so far
 
 <h2>My name is David...</h2>
 
@@ -13,6 +13,11 @@
 <h3>Now for a few Github favorites</h3>
 
 - I **love** :smiling_face_with_three_hearts:  when I push new commits up to the web and see it successful
-- git status, git diff, git add, git commit -m " ", git push
+- git status
+    - git diff
+        - git add
+            - git status
+                - git commit -m " "
+                    - git push
 
 <h2>THE END</h2>
