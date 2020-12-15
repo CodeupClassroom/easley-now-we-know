@@ -10,3 +10,4 @@
 - a repo is a regular folder that git is tracking
 - creating a repo
 - If you make your repo on GitHub 1st, you don't have to "git init". You only clone.
+- Before you you "git add", you can run "git diff" to see what files/lines are changed.
