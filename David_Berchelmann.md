@@ -20,4 +20,8 @@
                 - git commit -m " "
                     - git push
 
+- I woke up this morning and realized there is an additional love that I have for github...
+    - :green_square: :green_square: :green_square: :green_square: :green_square: :green_square:
+- Yes. I have a small crush on the green box that shows at least one commit was completed.
+
 <h2>THE END</h2>
